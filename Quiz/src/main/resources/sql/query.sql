@@ -1,0 +1,20 @@
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question1', 'option11', 'option12', 'option13', 'option14', 'easy', 'option12', 'java');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question2', 'option21', 'option22', 'option23', 'option24', 'easy', 'option21', 'java');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question3', 'option31', 'option32', 'option33', 'option34', 'hard', 'option33', 'question');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question4', 'option41', 'option42', 'option43', 'option44', 'easy', 'option42', 'java');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question5', 'option51', 'option52', 'option53', 'option54', 'medium', 'option52', 'java');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question6', 'option61', 'option62', 'option63', 'option64', 'hard', 'option63', 'assembly');
+--
+--insert into questions(question, option1, option2, option3, option4, difficulty_level, right_option, category)
+--values('question7', 'option71', 'option72', 'option73', 'option74', 'hard', 'option71', 'rust');
