@@ -21,7 +21,7 @@ import static org.springframework.security.config.http.SessionCreationPolicy.STA
 @EnableWebSecurity
 @EnableMethodSecurity
 @RequiredArgsConstructor
-@NoArgsConstructor(force = true)
+
 public class SecurityConfig {
 
     private static final String[] WHITE_LIST_URL = {
